@@ -1,4 +1,4 @@
-This is a collection of data analysis projects including the following compents:
+This is a collection of data analysis projects including the following components:
 
     Big data technologie: Pysark,Spark Streaming,Spark SQL,and MLlib
     Databases : MySQL,Cassandra,Sqlite,Db2
